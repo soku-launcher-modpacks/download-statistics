@@ -6,7 +6,7 @@ ORG = "soku-launcher-modpacks"
 s = requests.Session()
 repos = [
     (ORG, repo["name"])
-    for repo in s.get(f"https://api.github.com/users/{ORG}/repos").json()
+    for repo in s.get(f"https://api.github.com/users/{ORG}/repos?per_page=100").json()
 ]
 repos.append(("0miles", "soku-launcher"))
 download_count = {
