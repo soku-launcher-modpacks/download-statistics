@@ -1,0 +1,96 @@
+{
+  "AssistSoku": {
+    "0.0.1": 4
+  },
+  "Autopunch": {
+    "0.0.4": 55
+  },
+  "BGMChanger": {
+    "0.0.1": 218
+  },
+  "Blacklist": {
+    "0.0.1": 1
+  },
+  "ChainCFix": {
+    "1.0.0": 29
+  },
+  "CharactersInForeground": {
+    "v2.0.2-CiF_plus": 0,
+    "v2.0.2": 26,
+    "2.0.2-CiF+": 0,
+    "2.0.2": 75,
+    "2.0.0-CiF+": 44
+  },
+  "ControlPnP": {
+    "0.0.1": 32
+  },
+  "DesyncProtector": {
+    "0.0.1": 77
+  },
+  "DiscordIntegration": {
+    "0.0.1": 35
+  },
+  "download-statistics": {},
+  "DPadFix": {
+    "0.0.1": 33
+  },
+  "DSoundFix": {
+    "0.0.1": 215
+  },
+  "EasyDecks": {
+    "0.0.1": 32
+  },
+  "FixMeiling236": {
+    "0.0.1": 165
+  },
+  "GetIP": {
+    "0.0.1": 26
+  },
+  "giuroll": {
+    "0.6.17-4": 250,
+    "0.6.17-2": 67,
+    "0.6.16-4": 4,
+    "0.6.14": 2
+  },
+  "Giuroll-UI": {
+    "1.0": 20
+  },
+  "HoldEscOnline": {
+    "1.2.0": 101
+  },
+  "InfiniteDecks": {
+    "v1.0.3.1": 37,
+    "1.0.3.1": 61,
+    "1.0.3": 84
+  },
+  "InGameHostlist": {
+    "v1.3.4": 48
+  },
+  "IPv6MapSokuMod": {
+    "0.2.1": 3,
+    "0.2.0.1": 66
+  },
+  "LabTool": {
+    "1.1.1": 239
+  },
+  "main-source": {},
+  "MemoryPatch": {
+    "0.0.1": 34
+  },
+  "NetBattleCounter": {
+    "0.0.1": 185
+  },
+  "NetBellChanger": {
+    "0.0.1": 197
+  },
+  "NetProfileView": {
+    "0.0.1": 179
+  },
+  "NoFocusNoBgm": {
+    "0.0.1": 107
+  },
+  "package-template": {},
+  "palette-picker": {
+    "0.2b": 116
+  }
+}
