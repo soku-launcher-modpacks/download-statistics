@@ -1,9 +1,12 @@
 #!/usr/bin/env python3
 import requests
 import json
+import os
 
 ORG = "soku-launcher-modpacks"
 s = requests.Session()
+if "TOKEN" in os.environ:
+    s.headers["authorization"] = "Bearer " + os.environ["TOKEN"]
 repos = [
     (ORG, repo["name"])
     for repo in s.get(f"https://api.github.com/users/{ORG}/repos?per_page=100").json()
