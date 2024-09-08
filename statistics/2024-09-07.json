@@ -93,6 +93,85 @@
   "palette-picker": {
     "0.2b": 116
   },
+  "PracticeEx": {
+    "2.1.0b": 42,
+    "2.1.0": 1
+  },
+  "PunishDisplay": {
+    "0.0.1": 111
+  },
+  "ReplayDnD": {
+    "0.0.1": 34
+  },
+  "ReplayInputView": {
+    "0.0.1": 36
+  },
+  "ReplayLabelEx": {
+    "1.4": 2,
+    "1.6b": 21
+  },
+  "ReplayReSync": {
+    "0.0.1": 186
+  },
+  "SaveRep": {
+    "0.2.5": 30
+  },
+  "ScoreTracker": {
+    "2.1.0": 33
+  },
+  "shady-loader": {
+    "2.7.0": 74,
+    "2.6.0a": 233
+  },
+  "shady-lua": {
+    "2.7.0": 6
+  },
+  "SkipIntro": {
+    "v1.2.3": 236
+  },
+  "SokuDirectXOptimizations": {
+    "0.0.2.4": 6
+  },
+  "SokuLobbiesMod": {
+    "0.7.1.4": 89
+  },
+  "SokuModLoader": {
+    "v0.4.2.2": 168,
+    "0.4.2.2": 612,
+    "0.4.2.1": 31,
+    "0.4.2": 2
+  },
+  "SokuReplays": {
+    "0.0.1": 32
+  },
+  "SokuStreaming": {
+    "0.0.1": 89
+  },
+  "SWRSokuRoll": {
+    "1.3.1": 30
+  },
+  "Test": {},
+  "th123intl": {
+    "0.3": 145
+  },
+  "TimerSoku": {
+    "0.0.1": 70
+  },
+  "TrialMode": {
+    "0.6.2": 183
+  },
+  "UPnPNat": {
+    "0.0.1": 207
+  },
+  "VolumeChanger": {
+    "1.1.0": 15
+  },
+  "WindowResizer": {
+    "0.0.4": 86,
+    "0.0.3": 89,
+    "0.0.2": 42,
+    "0.0.1": 33
+  },
   "soku-launcher": {
     "v2.3.0.0": 98,
     "v2.2.0.0": 862,
